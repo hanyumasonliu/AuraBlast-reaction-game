@@ -1,0 +1,7 @@
+{
+  "name": "AuraBlast: Kinetic Neon Studio",
+  "description": "A high-energy augmented reality game where your body movements generate neon light and pop energy orbs in real-time.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
